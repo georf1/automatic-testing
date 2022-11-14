@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "automatic-testing"
+version = "0.1.0"
+description = "Training in the use of automated tests"
+authors = ["Ruslan Zinnatov <rh26157@gmail.com>"]
+readme = "README.md"
+packages = [{include = "automatic_testing"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
