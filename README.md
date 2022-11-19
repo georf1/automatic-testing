@@ -1,0 +1,1 @@
+[![Python package](https://github.com/georf1/hexlet-automatic-testing/actions/workflows/python-package.yml/badge.svg)](https://github.com/georf1/hexlet-automatic-testing/actions/workflows/python-package.yml)
